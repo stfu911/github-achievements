@@ -3,3 +3,6 @@
 
 ## Pair Collaboration Section
 Co-authored work.
+
+## Pair Extraordinaire Collab
+Second co-authored entry.
